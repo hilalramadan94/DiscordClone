@@ -1,3 +1,15 @@
+This is how its look like
+
+![alt text](https://github.com/hilalramadan94/DiscordClone/blob/master/screenshoot/1.jpg?raw=true)
+<br />
+![alt text](https://github.com/hilalramadan94/DiscordClone/blob/master/screenshoot/2.jpg?raw=true)
+<br />
+![alt text](https://github.com/hilalramadan94/DiscordClone/blob/master/screenshoot/3.jpg?raw=true)
+
+<br />
+<br />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
