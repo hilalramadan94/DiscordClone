@@ -70,6 +70,10 @@
   font-size: smaller;
 }
 
+.sidebar__voice > .MuiSvgIcon-root {
+  margin-left: 5px;
+}
+
 .sidebar__voiceIcons > .MuiSvgIcon-root {
   padding: 10px;
 }
@@ -83,8 +87,12 @@
   color: white;
 }
 
-.sidebar__profileInfo > .MuiSvgIcon-root {
-    padding: 10px;
+.sidebar__profile > .MuiAvatar-root {
+  margin-left: 5px;
+}
+
+.sidebar__profileIcons > .MuiSvgIcon-root {
+    padding: 5px;
   }
 
 /* 
