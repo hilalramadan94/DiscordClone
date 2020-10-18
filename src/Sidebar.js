@@ -44,7 +44,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar__top">
-        <h1>TOP</h1>
+        <h2>Discord Clone</h2>
         <ExpandMoreIcon />
       </div>
 
@@ -52,7 +52,7 @@ function Sidebar() {
         <div className="sidebar__channelsHeader">
           <div className="sidebar__header">
             <ExpandMoreIcon />
-            <h1>Channel</h1>
+            <h2>Test Channel</h2>
           </div>
 
           <AddIcon onClick={handleAddChannel} className="sidebar__addChannel" />
